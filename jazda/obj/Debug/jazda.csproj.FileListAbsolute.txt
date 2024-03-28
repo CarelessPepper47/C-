@@ -1,0 +1,7 @@
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\obj\Debug\jazda.csproj.AssemblyReference.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\obj\Debug\jazda.csproj.CoreCompileInputs.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\bin\Debug\jazda.exe.config
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\bin\Debug\jazda.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\bin\Debug\jazda.pdb
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\obj\Debug\jazda.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\jazda\obj\Debug\jazda.pdb
