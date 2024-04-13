@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4EB5D-5EE8-4B5D-AA68-5B36252114FE}|Z3\\Z3.csproj|c:\\users\\mtszr\\onedrive\\desktop\\wsbmerito\\projektowaniekomputerowe\\pk-z1\\z3.sln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Z3.sln",
+              "DocumentMoniker": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z3.sln",
+              "RelativeDocumentMoniker": "..\\Z3.sln",
+              "ToolTip": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z3.sln",
+              "RelativeToolTip": "..\\Z3.sln",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2024-04-07T13:47:21.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

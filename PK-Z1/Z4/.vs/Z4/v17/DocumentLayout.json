@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE2DBA2-D0CA-493F-A15F-EFBDC768170C}|Z4\\Z4.csproj|c:\\users\\mtszr\\onedrive\\desktop\\wsbmerito\\projektowaniekomputerowe\\pk-z1\\z4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Z4.cs",
+              "DocumentMoniker": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z4.cs",
+              "RelativeDocumentMoniker": "..\\Z4.cs",
+              "ToolTip": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\PK-Z1\\Z4.cs",
+              "RelativeToolTip": "..\\Z4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:49:10.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
