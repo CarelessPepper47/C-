@@ -1,0 +1,7 @@
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\bin\Debug\Z11.exe.config
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\bin\Debug\Z11.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\bin\Debug\Z11.pdb
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\obj\Debug\Z11.csproj.AssemblyReference.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\obj\Debug\Z11.csproj.CoreCompileInputs.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\obj\Debug\Z11.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\PK-Z1\Z11\Z11\obj\Debug\Z11.pdb

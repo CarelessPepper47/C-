@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Z6
 {
@@ -19,14 +14,15 @@ namespace Z6
             suma = a + b;
             roznica = a - b;
             iloczyn = a * b;
-            try {
-                iloraz = a / b;
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            Console.WriteLine("Suma: {0}\nRoznica: {1}\nIloczyn: {2}\nIloraz: {3}", suma, roznica, iloczyn, iloraz)
+            /* try {
+             Console.WriteLine(a / b);
+             }
+             catch (DivideByZeroException) {
+             Console.WriteLine("Nie dziel przez 0!");
+            } */
+            iloraz = a / b;
+            Console.WriteLine("Suma: {0}\nRoznica: {1}\nIloczyn: {2}\nIloraz: {3}", suma, roznica, iloczyn, iloraz);
+            Console.ReadLine();
         }
     }
 }

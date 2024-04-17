@@ -1,0 +1,7 @@
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\obj\Debug\Z6.csproj.AssemblyReference.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\obj\Debug\Z6.csproj.CoreCompileInputs.cache
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\bin\Debug\Z6.exe.config
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\bin\Debug\Z6.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\bin\Debug\Z6.pdb
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\obj\Debug\Z6.exe
+C:\Users\mtszr\OneDrive\Desktop\WSBMerito\ProjektowanieKomputerowe\zadanie1\PK-Z1\Z6\Z6\obj\Debug\Z6.pdb
