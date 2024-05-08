@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\spr1B\\Z9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E667A8D-AA4A-4A84-9360-A1319D6F224C}|Z9\\Z9.csproj|c:\\users\\mtszr\\onedrive\\desktop\\wsbmerito\\projektowaniekomputerowe\\spr1b\\z9\\z9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E667A8D-AA4A-4A84-9360-A1319D6F224C}|Z9\\Z9.csproj|solutionrelative:z9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\spr1B\\Z9\\Z9\\Program.cs",
+              "RelativeDocumentMoniker": "Z9\\Program.cs",
+              "ToolTip": "C:\\Users\\mtszr\\OneDrive\\Desktop\\WSBMerito\\ProjektowanieKomputerowe\\spr1B\\Z9\\Z9\\Program.cs",
+              "RelativeToolTip": "Z9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:20:29.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
